@@ -43,7 +43,8 @@
       },
       "type": "dynamiczone",
       "components": [
-        "page.ministry-holders"
+        "page.ministry-holders",
+        "page.home"
       ]
     }
   }
